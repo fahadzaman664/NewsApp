@@ -8,9 +8,9 @@ import { BrowserRouter } from 'react-router-dom'; // ✅ import this
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <BrowserRouter basename="/NewsApp/"> 
+
       <App />
-    </BrowserRouter>
+
   </React.StrictMode>
 );
 
