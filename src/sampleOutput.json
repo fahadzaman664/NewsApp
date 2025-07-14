@@ -1,0 +1,58 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": {
+        "id": "news-com-au",
+        "name": "News.com.au"
+      },
+      "author": "Ben Talintyre",
+      "title": "Aussies caught up in India-Pakistan conflict",
+      "description": "Australian cricket stars are desperately trying to rush home as a rising conflict between India and Pakistan has not only led to the suspension of the Indian Premier League (IPL) but has left players on the ground fearing for their safety.",
+      "url": "https://www.news.com.au/sport/cricket/aussie-cricket-stars-caught-up-in-middle-of-indiapakistan-conflict-as-ipl-match-postponed-amid-air-raid-warnings/news-story/ec8bcc19f4da9e42d829cbecaa8916bd",
+      "urlToImage": "https://content.api.news/v3/images/bin/f90745aa56aaa727220b34117ffb1961",
+      "publishedAt": "2025-05-09T08:23:00Z",
+      "content": "Australian cricket stars are desperately trying to rush home as a rising conflict between India and Pakistan has not only led to the suspension of the Indian Premier League (IPL) but has left players… [+2935 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-sport",
+        "name": "BBC Sport"
+      },
+      "author": null,
+      "title": "Stuart MacGill: Former Australia cricketer avoids jail over drug deal",
+      "description": "Former Australia cricketer Stuart MacGill avoids jail after being found guilty of  taking part in the supply of cocaine.",
+      "url": "http://www.bbc.co.uk/sport/cricket/articles/cx2qnj7n12wo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b4bb/live/1e01da00-2ca1-11f0-9517-b14d4ce1fa8a.jpg",
+      "publishedAt": "2025-05-09T07:52:26.416478Z",
+      "content": "Former Australia cricketer Stuart MacGill has avoided jail after being found guilty of taking part in the supply of cocaine.\r\nThe 54-year-old was given a 22-month intensive corrections order and 495 … [+993 chars]"
+    },
+    {
+      "source": {
+        "id": "espn-cric-info",
+        "name": "ESPN Cric Info"
+      },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": {
+        "id": "espn-cric-info",
+        "name": "ESPN Cric Info"
+      },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
