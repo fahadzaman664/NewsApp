@@ -10,7 +10,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 const App=()=> {
  const  pagesize = 15;
- const  apikey = process.env.REACT_APP_NEWS_API_KEY
+ const  apikey = "64c649f07eea4eeba7fd88e0cb91d437"
   const [progress,setProgress] = useState(0);
 
   // state = {
